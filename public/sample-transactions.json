@@ -1,0 +1,56 @@
+[
+  {
+    "accountId": "A1",
+    "amount": 20000,
+    "timestamp": "2026-02-19T10:00:00",
+    "city": "Delhi"
+  },
+  {
+    "accountId": "A1",
+    "amount": 15000,
+    "timestamp": "2026-02-19T10:00:30",
+    "city": "Delhi"
+  },
+  {
+    "accountId": "A1",
+    "amount": 20000,
+    "timestamp": "2026-02-19T10:01:00",
+    "city": "Mumbai"
+  },
+  {
+    "accountId": "A2",
+    "amount": 5000,
+    "timestamp": "2026-02-19T11:00:00",
+    "city": "Bangalore"
+  },
+  {
+    "accountId": "A2",
+    "amount": 25000,
+    "timestamp": "2026-02-19T11:00:15",
+    "city": "Bangalore"
+  },
+  {
+    "accountId": "A2",
+    "amount": 22000,
+    "timestamp": "2026-02-19T11:00:30",
+    "city": "Bangalore"
+  },
+  {
+    "accountId": "A2",
+    "amount": 8000,
+    "timestamp": "2026-02-19T11:00:45",
+    "city": "Chennai"
+  },
+  {
+    "accountId": "A3",
+    "amount": 30000,
+    "timestamp": "2026-02-19T14:00:00",
+    "city": "Kolkata"
+  },
+  {
+    "accountId": "A3",
+    "amount": 25000,
+    "timestamp": "2026-02-19T14:30:00",
+    "city": "Hyderabad"
+  }
+]

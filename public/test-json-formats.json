@@ -1,0 +1,44 @@
+[
+  {
+    "accountId": "ACC001",
+    "amount": 25000,
+    "timestamp": "2026-02-19T10:00:00",
+    "city": "Delhi"
+  },
+  {
+    "accountId": "ACC001",
+    "amount": 18000,
+    "timestamp": "2026-02-19 10:00:30",
+    "city": "Delhi"
+  },
+  {
+    "accountId": "ACC001",
+    "amount": 22000,
+    "timestamp": "19/02/2026 10:01:00",
+    "city": "Mumbai"
+  },
+  {
+    "accountId": "ACC002",
+    "amount": 15000,
+    "timestamp": "02-19-2026 14:30:45",
+    "city": "Bangalore"
+  },
+  {
+    "accountId": "ACC002",
+    "amount": 8000,
+    "timestamp": "2026-02-19",
+    "city": "Bangalore"
+  },
+  {
+    "accountId": "ACC003",
+    "amount": 32000,
+    "timestamp": "1739918400",
+    "city": "Mumbai"
+  },
+  {
+    "accountId": "ACC001",
+    "amount": 20000,
+    "timestamp": "02/19/2026 10:02:00",
+    "city": "Chennai"
+  }
+]
